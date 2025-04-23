@@ -7361,6 +7361,9 @@ meshlab:
   gentoo: [media-gfx/meshlab]
   nixos: [meshlab]
   ubuntu: [meshlab]
+miniserve:
+  arch: [miniserve]
+  nixos: [miniserve]
 mkdocs:
   debian:
     buster: [mkdocs]
